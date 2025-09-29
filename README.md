@@ -8,16 +8,16 @@ This repository contains the implementation code and datasets for the methodolog
 The datasets include (i) the paper information used in the attribute-classification task and (ii) the classification results for each of four methodologies described in Section 3.2.
 
 * #### Abstract-Keyword   
->This dataset provides the paper references, abstracts, and keywords used for classification.
+> This dataset provides the paper references, abstracts, and keywords used for classification.
    
 * #### Methodology 1 Classification Result   
->	> Attribute-classification results from Methodology 1 (Existing Single-Generation Methodology).
+> Attribute-classification results from Methodology 1 (Existing Single-Generation Methodology).
    
 * #### Methodology 2 Classification Result   
->	> Attribute-classification results from Methodology 2 (Single-Generation Methodology with final attribute types).
+> ttribute-classification results from Methodology 2 (Single-Generation Methodology with final attribute types).
    
 * #### Methodology 3 Classification Result   
->	> Attribute-classification results from Methodology 3 (Single-Generation Methodology with final attribute types & condition prompt).
+> Attribute-classification results from Methodology 3 (Single-Generation Methodology with final attribute types & condition prompt).
    
 * #### Methodology 4 Classification Result   
->	> Attribute-classification results from our proposed methodology (multi-domain agent collaboration-based methodology).
+> Attribute-classification results from our proposed methodology (multi-domain agent collaboration-based methodology).
