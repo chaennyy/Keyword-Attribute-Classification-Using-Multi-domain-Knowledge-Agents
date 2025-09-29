@@ -7,11 +7,11 @@ based on keyword interpretation
 This repository contains the implementation code and datasets for the methodology presented in our paper, 'Automated classification of paper attributes using collaborative multi-domain knowledge agents based on keyword interpretation'.
 
 <br/>
-## Info
+<h2>Info</h2>
 
 We provide the implementation code for our methodology and five datasets in this repository.
 
-### Dataset :
+<div>Dataset :</div>
 The datasets include (i) the paper information used in the attribute-classification task and (ii) the classification results for each of four methodologies described in Section 3.2.
 
 <br/>
