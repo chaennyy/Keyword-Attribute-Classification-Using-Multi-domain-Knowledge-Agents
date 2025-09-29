@@ -1,10 +1,10 @@
 # Automated classification of paper attributes using collaborative multi-domain knowledge agents based on keyword interpretation
-***
+
 This repository contains the implementation code and datasets for the methodology presented in our paper, 'Automated classification of paper attributes using collaborative multi-domain knowledge agents based on keyword interpretation'.
 
 
 ## Info
-***
+
 We provide the implementation code for our methodology and five datasets in this repository.
 
 ### Dataset :
